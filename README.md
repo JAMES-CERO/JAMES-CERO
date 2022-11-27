@@ -3,11 +3,11 @@
 <hr>
 <h1 align="center">Hi 👋, I'm a lost soul better know as James</h1>
 <h3 align="center">A passionate frontend developer that manages English, Spanish, a bit Portuguese & Russian.</h3>
-<img src="https://www.lambdatest.com/resources/images/news24.gif" align="right" width="330" alt="Man coding gif"></img>
+<img src="https://www.lambdatest.com/resources/images/news24.gif" align="right" width="230" alt="Man coding gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=james-cero&label=Profile%20views&color=0e75b6&style=flat" alt="james-cero" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=james-cero" alt="james-cero" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  width="550" src="https://github-profile-trophy.vercel.app/?username=james-cero" alt="james-cero" /></a> </p>
 
 - 🔭 I’m currently working on **....**
 
