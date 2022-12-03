@@ -1,7 +1,8 @@
 
 ![MasterHead](https://media.tenor.com/CIMvvm4prbMAAAAC/banner.gif) 
 <hr>
-<h1 align="center">Hi 👋, I'm a lost soul better know as James</h1>
+<h1 align="center"> James A. Rojas, </h1>
+<h1 align="center">Hi 👋, Im a Software developer with a good Music' taste & Emulous  </h1>
 <h3 align="center">A passionate frontend developer that manages English, Spanish, a bit Portuguese & Russian.</h3>
 <img src="https://www.lambdatest.com/resources/images/news24.gif" align="right" width="230" alt="Man coding gif"></img>
 
