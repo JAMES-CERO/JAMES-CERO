@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  width="550" src="https://github-profile-trophy.vercel.app/?username=james-cero" alt="james-cero" /></a> </p>
 
-- 🔭 I’m currently working on **....**
+- 🔭 I’m currently working on ** Milestone Project NYU - Web Game**
 
 - 🌱 I’m currently learning **API's & C++**
 
