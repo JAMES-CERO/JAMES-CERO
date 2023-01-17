@@ -1,5 +1,6 @@
 
 ![MasterHead](https://media.tenor.com/CIMvvm4prbMAAAAC/banner.gif) 
+<img align="left" width="500" height="280" src="https://media.tenor.com/CIMvvm4prbMAAAAC/banner.gif">
 <hr>
 <h1 align="center"> James A. Rojas, </h1>
 <h1 align="center">Hi 👋, Im a Software developer with a good Music' taste & Emulous  </h1>
@@ -12,11 +13,11 @@
 
 - 🔭 I’m currently working on ** Milestone Project NYU - Web Game**
 
-- 🌱 I’m currently learning **API's & C++**
+- 🌱 I’m currently learning **API's, Express  & C++**
 
 - 👯 I’m looking to collaborate on **...**
 
-- 👨‍💻 All of my projects are available at [...](...)
+- 👨‍💻 All of my projects are available at [](...)
 
 - 💬 Ask me about **JS, CSS, HTML REACT**
 
