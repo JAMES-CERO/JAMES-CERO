@@ -1,6 +1,6 @@
 
-![MasterHead](https://media.tenor.com/CIMvvm4prbMAAAAC/banner.gif) 
-<img align="left" width="500" height="280" src="https://media.tenor.com/CIMvvm4prbMAAAAC/banner.gif">
+
+<img align="center" width="950" height="340" src="https://media.tenor.com/CIMvvm4prbMAAAAC/banner.gif">
 <hr>
 <h1 align="center"> James A. Rojas, </h1>
 <h1 align="center">Hi 👋, Im a Software developer with a good Music' taste & Emulous  </h1>
@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  width="550" src="https://github-profile-trophy.vercel.app/?username=james-cero" alt="james-cero" /></a> </p>
 
-- 🔭 I’m currently working on ** Milestone Project NYU - Web Game**
+- 🔭 I’m currently working on ** Milestone Project NYU - Web Game / Rest-Rant Wep Page **
 
-- 🌱 I’m currently learning **API's, Express  & C++**
+- 🌱 I’m currently learning **API's, Express, MongoDB  & C++**
 
 - 👯 I’m looking to collaborate on **...**
 
