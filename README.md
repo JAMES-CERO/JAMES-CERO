@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently working on ** Milestone Project NYU - Web Game / Rest-Rant Wep Page **
 
-- 🌱 I’m currently learning **API's, Express, MongoDB  & C++**
+- 🌱 I’m currently learning **API's, MongoDB **
 
 - 👯 I’m looking to collaborate on **...**
 
 - 👨‍💻 All of my projects are available at [](...)
 
-- 💬 Ask me about **JS, CSS, HTML REACT**
+- 💬 Ask me about **JS, APIs, UXUI, REACT**
 
 - 📫 How to reach me **james_aules@icloud.com**
 
