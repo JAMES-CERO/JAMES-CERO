@@ -11,15 +11,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  width="550" src="https://github-profile-trophy.vercel.app/?username=james-cero" alt="james-cero" /></a> </p>
 
-- 🔭 I’m currently working on ** Milestone Project NYU - Web Game / Rest-Rant WeB Page/ breadCRUD mongoDB **
+- 🔭 I’m currently working on ** SQL MUSIC-TOUR WEBAPP**
 
-- 🌱 I’m currently learning **API's, MongoDB **
+- 🌱 I’m currently learning **SQL/ AI ON AZURE / DATA ANALISYS **
 
-- 👯 I’m looking to collaborate on ****
+- 👯 I’m looking to collaborate on MICROSOFT ***
 
-- 👨‍💻 All of my projects are available at [](...)
-
-- 💬 Ask me about **JS, APIs, UXUI, REACT**
+- 💬 Ask me about **JS, APIs, UXUI, REACT, MONGO DB, PSQL**
 
 - 📫 How to reach me **james_aules@icloud.com**
 
