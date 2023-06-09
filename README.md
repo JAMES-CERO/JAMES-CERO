@@ -4,24 +4,22 @@
 <hr>
 <h1 align="center"> James A. Rojas, </h1>
 <h1 align="center">Hi 👋, Im a Software developer with a good Music' taste & Emulous  </h1>
-<h3 align="center">A passionate frontend developer that manages English, Spanish, a bit Portuguese & Russian.</h3>
+<h3 align="center">A passionate full-stack developer that manages English, Spanish, a bit Portuguese & Russian.</h3>
 <img src="https://www.lambdatest.com/resources/images/news24.gif" align="right" width="230" alt="Man coding gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=james-cero&label=Profile%20views&color=0e75b6&style=flat" alt="james-cero" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  width="550" src="https://github-profile-trophy.vercel.app/?username=james-cero" alt="james-cero" /></a> </p>
 
-- 🔭 I’m currently working on ** SQL MUSIC-TOUR WEBAPP**
+- 🔭 I’m currently working on ** Full-stack app (PY & TS)**
 
-- 🌱 I’m currently learning **SQL/ AI ON AZURE / DATA ANALISYS **
+- 🌱 I’m currently learning ** TypeScript & Cyber-Security(high level) **
 
 - 👯 I’m looking to collaborate on MICROSOFT ***
 
-- 💬 Ask me about **JS, APIs, UXUI, REACT, MONGO DB, PSQL**
+- 💬 Ask me about **JS, APIs, UXUI, REACT, MONGO DB, PSQL, SQL, AI ON AZURE, DATA ANALISYS, PY, CyberSecurity(Fundations)**
 
 - 📫 How to reach me **james_aules@icloud.com**
-
-- 📄 Know about my experiences I will updating my resume soon.
 
 - ⚡ Fun fact **I do have a $800 guitar , don't know how to play it.**
 
@@ -39,6 +37,7 @@
 <p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=james-cero&show_icons=true&locale=en" alt="james-cero" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=james-cero&" alt="james-cero" /></p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=james-cero&show_icons=true&locale=en&layout=compact" alt="james-cero" /></p>
 
